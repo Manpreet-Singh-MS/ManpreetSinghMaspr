@@ -48,8 +48,8 @@ Aspiring Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 </summary>
 <p align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManpreetSinghMaspr&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManpreetSinghMaspr&layout=compact&theme=vision-friendly-dark)](https://github.com/ManpreetSinghMaspr/github-readme-stats)
 
