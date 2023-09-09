@@ -1,5 +1,5 @@
 # Hi there 👋
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=<Manpreet-Singh-MS&label=Views&color=blue&style=for-the-badge" alt="ManpreetSingh" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Manpreet-Singh-MS&label=Views&color=blue&style=for-the-badge" alt="ManpreetSingh" /> </p>
 
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
