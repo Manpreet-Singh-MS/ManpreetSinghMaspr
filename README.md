@@ -42,11 +42,11 @@ Aspiring Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ---
 
-<summary>
+
 
 ## :fire: My GitHub Stats :
 
-</summary>
+
 <p align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=manpreet-singh-ms)](https://git.io/streak-stats)
