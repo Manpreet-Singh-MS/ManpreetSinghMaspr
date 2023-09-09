@@ -42,7 +42,7 @@ Aspiring Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ---
 
-<details><summary>
+<summary>
 
 ## :fire: My GitHub Stats :
 
@@ -55,4 +55,3 @@ Aspiring Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manpreet-Singh-MS&layout=compact&theme=vision-friendly-dark)](https://github.com/ManpreetSinghMaspr/github-readme-stats)
 
 </p>
-</details>
