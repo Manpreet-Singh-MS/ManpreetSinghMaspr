@@ -1,5 +1,5 @@
 # Hi there 👋
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ManpreetSinghMaspr&label=Views&color=blue&style=for-the-badge" alt="ManpreetSingh" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=<Manpreet-Singh-MS&label=Views&color=blue&style=for-the-badge" alt="ManpreetSingh" /> </p>
 
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -18,7 +18,7 @@
 Aspiring Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🌱 Exploring Python, SQL, EDA, PySpark, DataBricks, Tableau, ETL.
 - 📫 How to reach me: &nbsp; 
-<a href="manpreet.singh.maspr@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
+<a href="mailto:manpreet.singh.maspr@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/8800931978)
 
 ---
