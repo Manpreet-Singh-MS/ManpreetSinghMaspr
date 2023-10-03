@@ -2,13 +2,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Manpreet-Singh-MS&label=Views&color=blue&style=for-the-badge" alt="ManpreetSingh" /> </p>
 
 <div align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+<img src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif" width="400" height="200"/>
 </div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/manpreet-singh-maspr/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://www.kaggle.com/manpreetsinghms"><img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle&logoColor=blue" alt="Kaggle Badge"></a>
-</p>
 
 ---
 
