@@ -15,8 +15,8 @@
 <img align="right" height="150" width="150" alt="" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 ### :man_technologist: &nbsp;About Me :
-Aspiring Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🌱 Exploring Python, SQL, EDA, PySpark, DataBricks, Tableau, ETL.
+DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 🌱 Exploring Linux, GIT, Dockers, Jenkins, Kubernetes, Ansible, Teraform, CI/CD, BASH.
 - 📫 How to reach me: &nbsp; 
 <a href="mailto:manpreet.singh.ms.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/8800931978)
