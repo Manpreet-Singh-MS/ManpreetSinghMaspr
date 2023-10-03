@@ -16,6 +16,15 @@
 
 ### :man_technologist: &nbsp;About Me :
 DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 🚀 Automating chaos into order, one script at a time.
+- 💡 Continuous Integration, Continuous Deployment, Continual Improvement.
+- 🔧 Turning caffeine into code and coffee into deployments.
+- 🐍 Pythonista by day, YAML whisperer by night.
+- 🔥 Master of the CLI, ruler of the DevOps domain.
+- 💻 Version control is my love language, Git is my poetry.
+- 📦 Containerizing dreams and orchestrating realities.
+- 🔍 Finding bugs before they find you.
+- 🛠️ Building bridges between devs and ops, one pull request at a time.
 - 🌱 Exploring Linux, GIT, Dockers, Jenkins, Kubernetes, Ansible, Teraform, CI/CD, BASH.
 - 📫 How to reach me: &nbsp; 
 <a href="mailto:manpreet.singh.ms.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
