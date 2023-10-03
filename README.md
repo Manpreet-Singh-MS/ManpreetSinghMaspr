@@ -2,7 +2,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Manpreet-Singh-MS&label=Views&color=blue&style=for-the-badge" alt="ManpreetSingh" /> </p>
 
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1358/1*xpBuOfOAQ4J8D1vAyncmbg.gif" width="600" height="400"/>
+<img src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" width="600" height="400"/>
 </div>
 
 <p align="center">
