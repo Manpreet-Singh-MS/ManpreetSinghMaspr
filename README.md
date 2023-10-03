@@ -2,7 +2,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Manpreet-Singh-MS&label=Views&color=blue&style=for-the-badge" alt="ManpreetSingh" /> </p>
 
 <div align="center">
-<img src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif" width="400" height="200"/>
+<img src="https://miro.medium.com/v2/resize:fit:679/1*DluPjzT_eTUFdzHCI7JBZA.gif" width="400" height="200"/>
 </div>
 
 <p align="center">
