@@ -8,10 +8,10 @@
 
 ---
 
-<img align="right" height="150" width="150" alt="" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" />
+<img align="right" height="150" width="170" alt="" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" />
 
 ### :man_technologist: &nbsp;About Me :
-DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+DevOps Engineer <img src="https://static.vecteezy.com/system/resources/previ…/large_2x/man-face-avatar-cartoon-free-vector.jpg" width="30"> from India.
 - 🚀 Automating chaos into order, one script at a time.
 - 💡 Continuous Integration, Continuous Deployment, Continual Improvement.
 - 🔧 Turning caffeine into code and coffee into deployments.
