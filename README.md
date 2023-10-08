@@ -35,6 +35,7 @@ DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.redhat.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/355193/redhat.svg" alt="redhat" width="40" height="40"/> </a>
 <a href="https://www.docker.com//" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373699/jenkins.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" alt="Kubernetes" width="40" height="40"/> </a>
@@ -44,7 +45,10 @@ DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 <a href="https://aws.amazon.com/console/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376356/aws.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448274/azure.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" alt="GCP" width="40" height="40"/> </a>
-
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="gitlab" width="40" height="40"/> </a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353829/grafana.svg" alt="grafana" width="40" height="40"/> </a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374008/prometheus.svg" alt="Prometheus" width="40" height="40"/> </a>
+<a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448250/splunk.svg" alt="splunk" width="40" height="40"/> </a>
 
 </p>
 
