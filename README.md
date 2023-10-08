@@ -11,7 +11,7 @@
 <img align="right" height="150" width="170" alt="" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" />
 
 ### :man_technologist: &nbsp;About Me :
-DevOps Engineer <img src="https://previews.123rf.com/images/vectorhome/vecto…torhome190700578/127615649-devops-icon-vector.jpg" width="30"> from India.
+DevOps Engineer <img src="https://cdn-fmbem.nitrocdn.com/HSoUUXAExdMCqkaIeuH…95cbd0/iamops.io/wp-content/uploads/2023/09/2.svg" width="30"> from India.
 - 🚀 Automating chaos into order, one script at a time.
 - 💡 Continuous Integration, Continuous Deployment, Continual Improvement.
 - 🔧 Turning caffeine into code and coffee into deployments.
