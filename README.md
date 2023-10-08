@@ -1,6 +1,6 @@
 # Hi there 👋
 <div align="center">
-<img src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" width="400" height="200"/>
+<img src="https://akumeninc.com/wp-content/uploads/2020/02/Animation-1.gif" width="400" height="400"/>
 </div>
 
 <p align="center">
