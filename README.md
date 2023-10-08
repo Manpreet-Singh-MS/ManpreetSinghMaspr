@@ -1,6 +1,6 @@
 # Hi there 👋
 <div align="center">
-<img src="https://akumeninc.com/wp-content/uploads/2020/02/Animation-1.gif" width="400" height="400"/>
+<img src="https://akumeninc.com/wp-content/uploads/2020/02/Animation-1.gif" width="400" height="200"/>
 </div>
 
 <p align="center">
