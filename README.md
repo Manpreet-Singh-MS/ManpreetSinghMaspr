@@ -48,7 +48,7 @@ DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="gitlab" width="40" height="40"/> </a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353829/grafana.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374008/prometheus.svg" alt="Prometheus" width="40" height="40"/> </a>
-<a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448250/splunk.svg" alt="splunk" width="40" height="40"/> </a>
+<a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/splunk-logo.png" alt="splunk" width="40" height="40"/> </a>
 
 </p>
 
