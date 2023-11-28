@@ -1,6 +1,6 @@
 # Hi there 👋
 <div align="center">
-<img src="https://akumeninc.com/wp-content/uploads/2020/02/Animation-1.gif" width="400" height="200"/>
+<img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="400" height="200"/>
 </div>
 
 <p align="center">
