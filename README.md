@@ -1,6 +1,6 @@
 # Hi there 👋
 <div align="center">
-<img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="500" height="200"/>
+<img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="500" height="300"/>
 </div>
 
 <p align="center">
