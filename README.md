@@ -21,12 +21,15 @@ DevOps Engineer from India.
 - 📦 Containerizing dreams and orchestrating realities.
 - 🔍 Finding bugs before they find you.
 - 🛠️ Building bridges between devs and ops, one pull request at a time.
-- 🌱 Exploring Linux, GIT, Dockers, Jenkins, Kubernetes, Ansible, Teraform, CI/CD, BASH.
+- 🌱 Exploring Linux, GIT, Dockers, Jenkins, Kubernetes, Ansible, Terraform, CI/CD, BASH.
 - 📫 How to reach me: &nbsp; 
 <a href="mailto:manpreet.singh.ms.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/918800931978)
 
----
+<!-- GitHub Stats - Small and repositioned -->
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=manpreet-singh-ms&theme=vision-friendly-dark&height=150" alt="GitHub Streak">
+</p>
 
 ### 🛠 &nbsp;Languages and Tools :
 <p align="left"> 
@@ -54,14 +57,6 @@ DevOps Engineer from India.
 </p>
 
 ---
-
-## :fire: My GitHub Stats :
-
-<p align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=manpreet-singh-ms&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
-</p>
 
 <!-- Dynamic Quote Generator -->
 <div align="center">
