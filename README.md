@@ -27,7 +27,7 @@ DevOps Engineer from India.
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/918800931978)
 
 <!-- GitHub Stats - Small and repositioned -->
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=manpreet-singh-ms&theme=vision-friendly-dark&height=150" alt="GitHub Streak">
 </p>
 
