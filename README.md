@@ -55,11 +55,8 @@ DevOps Engineer from India.
 
 ---
 
-<details><summary>
-
 ## :fire: My GitHub Stats :
 
-</summary>
 <p align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=manpreet-singh-ms&theme=vision-friendly-dark)](https://git.io/streak-stats)
@@ -68,4 +65,3 @@ DevOps Engineer from India.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manpreet-Singh-MS&layout=compact&theme=vision-friendly-dark)](https://github.com/ManpreetSinghMaspr/github-readme-stats)
 
 </p>
-</details>
