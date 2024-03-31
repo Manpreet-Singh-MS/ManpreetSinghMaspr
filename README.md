@@ -68,7 +68,7 @@ I'm a DevOps Engineer from India.
 
 Feel free to drop me a message for feedback or collaboration. Let's make something amazing together.
 
-📬 [Reach out to me!](mailto:manpreet.singh.ms.tech@gmail.com)
+📬 [Reach out to me!](<a href="mailto:manpreet.singh.ms.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
 
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918800931978)
 
