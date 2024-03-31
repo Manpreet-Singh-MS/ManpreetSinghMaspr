@@ -26,10 +26,7 @@ DevOps Engineer from India.
 <a href="mailto:manpreet.singh.ms.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/918800931978)
 
-<!-- GitHub Stats - Small and repositioned -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=manpreet-singh-ms&theme=vision-friendly-dark&height=150" alt="GitHub Streak">
-</p>
+---
 
 ### 🛠 &nbsp;Languages and Tools :
 <p align="left"> 
@@ -54,6 +51,13 @@ DevOps Engineer from India.
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374008/prometheus.svg" alt="Prometheus" width="40" height="40"/> </a>
 <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/splunk-logo.png" alt="splunk" width="40" height="40"/> </a>
 
+</p>
+
+---
+
+<!-- GitHub Stats - Small and repositioned -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=manpreet-singh-ms&theme=vision-friendly-dark&height=150" alt="GitHub Streak">
 </p>
 
 ---
