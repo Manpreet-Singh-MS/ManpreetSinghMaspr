@@ -24,7 +24,7 @@ DevOps Engineer from India.
 - 🌱 Exploring Linux, GIT, Dockers, Jenkins, Kubernetes, Ansible, Teraform, CI/CD, BASH.
 - 📫 How to reach me: &nbsp; 
 <a href="mailto:manpreet.singh.ms.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/8800931978)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/918800931978)
 
 ---
 
