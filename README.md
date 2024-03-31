@@ -6,8 +6,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/manpreet-singh-ms/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
-<a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"></a>
 </p>
 
 ---
