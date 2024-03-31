@@ -55,14 +55,15 @@ DevOps Engineer from India.
 
 ---
 
-<!-- GitHub Stats - Small and repositioned -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=manpreet-singh-ms&theme=vision-friendly-dark&height=150" alt="GitHub Streak">
-</p>
-
----
-
 <!-- Dynamic Quote Generator -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
+
+---
+
+## :fire: My GitHub Stats :
+<!-- GitHub Stats - Small and repositioned -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=manpreet-singh-ms&theme=vision-friendly-dark&height=150" alt="GitHub Streak">
+</p>
