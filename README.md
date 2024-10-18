@@ -1,16 +1,19 @@
 # Hi there 👋
 
 <div align="center">
-<img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="400" height="200"/>
+  <img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="400" height="200"/>
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/manpreet-singh-ms/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/manpreet-singh-ms/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
 </p>
 
 ---
 
-<img align="right" height="160" width="180" alt="" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" />
+<!-- CEH Badge Section -->
+<img align="right" height="160" width="180" alt="Certified Ethical Hacker Badge" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png" />
 
 ### :man_technologist: &nbsp;About Me :
 I'm a DevOps Engineer from India.
@@ -59,7 +62,6 @@ I'm a DevOps Engineer from India.
   <img src="https://streak-stats.demolab.com/?user=manpreet-singh-ms&theme=vision-friendly-dark&height=150" alt="GitHub Streak">
 </p>
 
-
 ---
 
 <div align="center">
@@ -76,7 +78,6 @@ Feel free to drop me a message for feedback or collaboration. Let's make somethi
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge">
   </a>
 </p>
-
 
 </div>
 
