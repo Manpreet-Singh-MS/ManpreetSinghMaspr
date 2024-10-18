@@ -14,7 +14,7 @@
 
 <!-- CEH Badge Section -->
 <a href="https://aspen.eccouncil.org/Badge?a=NFVfcyak54tFou0re1YnmTsnsb/U1QbYmYNd9hnbdOY=" target="_blank">
-  <img align="right" height="160" width="180" alt="Certified Ethical Hacker Badge" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png" />
+  <img align="right" height="160" width="160" alt="Certified Ethical Hacker Badge" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png" />
 </a>
 
 ### :man_technologist: &nbsp;About Me :
