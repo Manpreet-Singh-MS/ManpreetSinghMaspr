@@ -13,7 +13,11 @@
 ---
 
 <!-- CEH Badge Section -->
-<img align="right" height="160" width="180" alt="Certified Ethical Hacker Badge" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png" />
+<div align="right">
+  <a href="https://aspen.eccouncil.org/Badge?a=NFVfcyak54tFou0re1YnmTsnsb/U1QbYmYNd9hnbdOY=" target="_blank">
+    <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png" alt="Certified Ethical Hacker Badge" width="160" height="160"/>
+  </a>
+</div>
 
 ### :man_technologist: &nbsp;About Me :
 I'm a DevOps Engineer from India.
