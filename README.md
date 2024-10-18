@@ -13,7 +13,7 @@
 ---
 
 <!-- CEH Badge Section -->
-<div align="right">
+<div style="float: right; margin: 0 20px 20px 0;">
   <a href="https://aspen.eccouncil.org/Badge?a=NFVfcyak54tFou0re1YnmTsnsb/U1QbYmYNd9hnbdOY=" target="_blank">
     <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png" alt="Certified Ethical Hacker Badge" width="160" height="160"/>
   </a>
