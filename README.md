@@ -18,7 +18,7 @@
 </a>
 
 ### :man_technologist: &nbsp;About Me :
-I'm a DevOps Engineer from India.
+Senior Engineer @Onix
 - 🚀 Automating chaos into order, one script at a time.
 - 💡 Continuous Integration, Continuous Deployment, Continual Improvement.
 - 🔧 Turning caffeine into code and coffee into deployments.
